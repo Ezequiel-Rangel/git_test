@@ -1,2 +1,2 @@
 # git_test
-lol
+lo
